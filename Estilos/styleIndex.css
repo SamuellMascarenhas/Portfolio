@@ -1067,12 +1067,15 @@ footer p {
     margin: auto;
     display: flex;
     flex-direction: column;
-
+    width: 100%;
 
   }
-
+#sobre{
+  display:flex;
+  flex-direction: column;
+}
   .spinnerContainer {
-    display: none;
+   
   }
 
   #sobre h2 {
@@ -1127,8 +1130,8 @@ footer p {
   }
 
   .cards-soft {
-    width: 340px;
-    height: 200px;
+    width: 240px;
+    height: 240px;
     cursor: pointer;
   }
 
