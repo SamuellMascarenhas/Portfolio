@@ -317,6 +317,7 @@ nav {
 }
 
 .portfolio {
+  
   padding: 3rem;
   display: flex;
   align-items: center;
@@ -338,11 +339,19 @@ nav {
 
 .box-port h2 {
   color: #e8e8e8;
-  padding: 6px;
+  padding: 4px;
   font-size: 3rem;
   font-family: 'Anton', sans-serif;
   font-weight: 100;
 }
+.cards-container {
+  margin:auto;
+  display:flex;
+gap: 15px;
+flex-wrap: wrap;
+justify-content:center;
+}
+ 
 
 .card {
 
@@ -773,6 +782,7 @@ nav {
 .modal-content {
   background-color: #e8e8e8;
   color: #000;
+  text-align:left;
   font-family: 'Kanit', sans-serif;
   border-radius: 5px;
   position: absolute;
@@ -781,7 +791,7 @@ nav {
   transform: translate(-50%, -50%);
   padding: 20px;
   max-width: 400px;
-  text-align: center;
+
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px;
 }
 
