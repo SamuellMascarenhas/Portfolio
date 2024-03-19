@@ -1,0 +1,1 @@
+Olá! Meu nome é Samuel Mascarenhas, e sou um profissional multifacetado com paixão por tecnologia, design e criatividade. Técnico em Desenvolvimento de Sistemas (SENAI CTTI) e Cursando Ciências da Computação (PUC MINAS).
