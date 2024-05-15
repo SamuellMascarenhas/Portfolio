@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
 * Template Name: Personal
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
@@ -5,12 +6,19 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+=======
+>>>>>>> 4e1b20ed92323819eae85af3cb40bb88a942aff2
 
 (function() {
   "use strict";
 
   /**
+<<<<<<< HEAD
    * Easy selector helper function
+=======
+   *
+Função auxiliar de seleção fácil
+>>>>>>> 4e1b20ed92323819eae85af3cb40bb88a942aff2
    */
   const select = (el, all = false) => {
     el = el.trim()
