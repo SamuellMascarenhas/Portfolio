@@ -4,7 +4,7 @@ Olá! Meu nome é Samuel Mascarenhas, e sou um profissional multifacetado com pa
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente, estou explorando diversas áreas da tecnologia, desde desenvolvimento web até machine learning.
+- 👨‍💻 Atualmente, estou explorando diversas áreas da tecnologia, desde desenvolvimento até machine learning.
 - 🎨 Tenho interesse em design e UX/UI, buscando criar experiências digitais significativas.
 - 🌱 Estou sempre aprendendo e me aprimorando, buscando novos conhecimentos e desafios.
 - 💬 Adoro colaborar em projetos e trocar ideias com outras pessoas da comunidade de tecnologia.
@@ -13,7 +13,7 @@ Olá! Meu nome é Samuel Mascarenhas, e sou um profissional multifacetado com pa
 
 Se você quer discutir tecnologia, colaborar em projetos ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo!
 
-- 📧 Email: samuel.mascarenhas@email.com
+- 📧 Email: samuelmascarenhascontato@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/samuel-mascarenhas](https://www.linkedin.com/in/samuel-mascarenhas)
 - 🌐 Website: (https://samuellmascarenhas.github.io/Portfolio/)
 
